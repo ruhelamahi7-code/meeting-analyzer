@@ -340,7 +340,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-uploaded = st.file_uploader("", type=["mp3", "wav", "m4a", "mp4"], label_visibility="collapsed")
+uploaded = st.file_uploader("", type=["mp3", "wav", "m4a", "mp4", "mov"], label_visibility="collapsed")
 
 if uploaded:
     st.audio(uploaded)
