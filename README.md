@@ -125,7 +125,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 **Built with ❤️ by Mahi Ruhela**
 
-*First Year CS Student · Building real AI tools*
+*CSE Student · Building real AI tools*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ruhelamahi7--code-181717?style=flat&logo=github)](https://github.com/ruhelamahi7-code)
 
